@@ -1,2 +1,2 @@
 # MLCode
-AI学习相关代码
+:art:Machine Learning code and notes.
